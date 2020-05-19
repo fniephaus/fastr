@@ -8,7 +8,7 @@ Note: The R language is currently [experimental](https://docs.oracle.com/en/graa
 
 ## Installing R
 
-The R language runtime can be installed to a GraalVM build the [GraalVM Updater]({{ "/docs/reference-manual/install-components/" | relative_url }}) tool.
+The R language runtime can be installed to a GraalVM build the [GraalVM Updater](https://www.graalvm.org/docs/reference-manual/install-components/) tool.
 See `$GRAALVM_HOME/bin/gu --help` for more information.
 
 The R language home directory, which this manual will be referencing as `$R_HOME`,
